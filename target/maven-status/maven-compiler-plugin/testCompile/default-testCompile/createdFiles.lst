@@ -1,0 +1,3 @@
+com/webward/test/mocked/TestItemResource.class
+com/webward/test/integration/resources/TestItems.class
+com/webward/test/integration/listener/TestServletContextListener.class

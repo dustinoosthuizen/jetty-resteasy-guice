@@ -1,0 +1,12 @@
+com/webward/listeners/CustomServletContextListener.class
+com/webward/modules/PojoModule.class
+com/webward/dto/ItemDto.class
+com/webward/transformer/ItemTransformer.class
+com/webward/dao/ItemDao.class
+com/webward/server/Main.class
+com/webward/jaxrs/ClientErrorExceptionMapper.class
+com/webward/resources/ItemResource.class
+com/webward/modules/DomainModule.class
+com/webward/modules/ResourcesModule.class
+com/webward/entities/Item.class
+com/webward/modules/MainModule.class

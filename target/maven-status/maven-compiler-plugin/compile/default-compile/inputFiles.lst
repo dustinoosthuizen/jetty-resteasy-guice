@@ -1,0 +1,12 @@
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/modules/MainModule.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/server/Main.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/entities/Item.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/modules/DomainModule.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/modules/PojoModule.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/dao/ItemDao.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/dto/ItemDto.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/listeners/CustomServletContextListener.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/resources/ItemResource.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/modules/ResourcesModule.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/jaxrs/ClientErrorExceptionMapper.java
+/Users/dustinosthzn/Development/jetty-resteasy-guice/src/main/java/com/webward/transformer/ItemTransformer.java
